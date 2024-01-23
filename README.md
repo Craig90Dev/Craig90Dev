@@ -1,0 +1,3 @@
+- 👋 Hi all, I'm Craig. An ex-submariner working on the Vanguard class submarines as a weapon engineer for 10+ years. I also helped train submariners how to escape subsunk situations and escape survival tactics. Due to a medical discharge I decided to change careers and join the Code Institute Full-Stack Web Development course.
+- 👀 I take a keen interest in climbing, hiking, mountain biking and gaming and enjoy listening to music in my spare time, whether that be heavy rock or D&B.
+- 🌱 I’m currently learning HTML and CSS and looking at moving on to JS on completion of my first project.
